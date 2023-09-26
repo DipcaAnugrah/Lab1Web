@@ -123,11 +123,11 @@ Disini saya menggunakan atribut **target** yang berguna untuk membuka website/ha
 ## **Jawab Pertanyaan Berikut**
 
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah
-   error ketika terjadi kesalahan penulisan tag?
+   error ketika terjadi kesalahan penulisan tag?      
    **Jawaban:**        
    <mark style="background-color:lightblue">Tidak terjadi error, tetapi tag/kode yang tidak sesuai tidak akan ditampilkan pada halaman website.</mark>
 
-2. Apa perbedaan dari tag p dengan tag br, berikan penjelasannya!  
+2. Apa perbedaan dari tag p dengan tag br, berikan penjelasannya!        
    **Jawaban:**         
    <mark style="background-color:lightblue">Tag p digunakan untuk membuat paragraf, sedangkan tag br digunakan untuk memberikan enter pada paragraf.</mark>
 
