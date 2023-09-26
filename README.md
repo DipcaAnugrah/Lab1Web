@@ -129,24 +129,20 @@ Disini saya menggunakan atribut **target** yang berguna untuk membuka website/ha
    <mark style="background-color:lightblue">Tidak terjadi error, tetapi tag/kode yang tidak sesuai tidak akan ditampilkan pada halaman website.</mark>
 
 2. Apa perbedaan dari tag p dengan tag br, berikan penjelasannya!  
-   **Jawaban:**
-   <br>
+   **Jawaban:**         
    <mark style="background-color:lightblue">Tag p digunakan untuk membuat paragraf, sedangkan tag br digunakan untuk memberikan enter pada paragraf.</mark>
 
 3. Apa perbedaan atribut title dan alt pada tag img, berikan penjelasannya!  
-   **Jawaban:**  
-   <br>
+   **Jawaban:**        
    <mark style="background-color:lightblue">Atribut title akan muncul jika kursor diarahkan keobjek/gambar, sedangkan atribut alt(alternatif) akan muncul jika user tidak bisa menampilkan gambar atau jaringan internet tidak bisa menginput gambar.</mark>
 
-4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!  
-   **Jawaban:**  
-   <br>
+4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!        
+   **Jawaban:**        
    <mark style=background-color:lightblue>sebaiknya hanya mengisi atribut widht saja karna dengan mengisi atribut widht saja itu sudah termasuk height, contoh : jika saya mengisi widht="100" maka otomatis height = "100" jadi height tersebut mengikuti widhtnya</mark>
 
 5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( \_blank, \_self, \_top,
 \_parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?  
-**Jawaban:**
-<br>
+**Jawaban:**         
   <ul >
   <li><mark style=background-color:lightblue>_blank: Ketika Anda menggunakan target="_blank", tautan akan dibuka dalam jendela atau tab browser yang baru, terpisah dari halaman saat ini. Ini akan memungkinkan pengguna tetap berada di halaman asal sambil mengakses tautan yang dibuka dalam jendela baru.</mark></li>
 
