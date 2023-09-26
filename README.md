@@ -1,4 +1,4 @@
-<h1><b>Lab 1 Web</b></h1>
+# **Lab 1 Web**
 
 ```
 Nama    : Dipca Anugrah
@@ -7,14 +7,13 @@ Kelas   : TI.2.A.4
 MATKUL  : Pemrograman Web 1
 ```
 
-<h2><b>Daftar Isi</b></h2>
-<ul>
-  <li><a href = "#intruksi">Instruksi Praktikum</a></li>
-  <li><a href = "#langkah">Langkah-langkah Praktikum</a></li>
-  <li><a href = "#soal">Jawab Pertanyaan Berikut</a></li>
-</ul>
+## **Daftar Isi**
 
-<h2 id="intruksi"><b>Instruksi Praktikum</b></h2>
+**1. [Instruksi Praktikum](#instruksi-praktikum)**  
+**2. [Langkah-langkah Praktikum](#langkah-langkah-praktikum)**  
+**3. [Jawab Pertanyaan Berikut](#jawab-pertanyaan-berikut)**
+
+## **Instruksi Praktikum**
 
 1. Persiapkan text editor, saya menggunakan VSCode
 2. Buat file baru dengan nama lab1_tag_dasar.html
@@ -22,7 +21,7 @@ MATKUL  : Pemrograman Web 1
 4. Ikuti langkah-langkah praktikum yang akan dijelaskan berikutnya.
 5. Lakukan validasi dokumen html dengan mengakses http://validator.w3.org
 
-<h2 id="langkah"><b>Langkah-langkah Praktikum</b></h2>
+## **Langkah-langkah Praktikum**
 
 1. Buka VSCode atau text editor, disini saya menggunakan VSCode karena lebih mudah digunakan dan VSCode ini sedang populer dikalangan para programmer.
    ![img](img/texteditor.png)
@@ -74,7 +73,7 @@ MATKUL  : Pemrograman Web 1
 
 <p>Saya menggunakan atribut <b>align</b> pada tag itu berguna untuk mengatur paragraf dan bisa berisi right, left, justify, dan center. Akan tetapi penggunaan atribut seperti itu sudah usang dalam HTML 5 dan sudah diganti penggunaannya menggunakan <b>CSS</b>.</p>
 
-<h3>6. Menambahkan Judul</h3>
+**6. Menambahkan Judul**
 h1 sampai h6 tergantung kebutuhan
 
 ```html
@@ -84,7 +83,7 @@ h1 sampai h6 tergantung kebutuhan
 <h2>Paragraf pada HTML</h2>
 ```
 
-<h3><b>7. Memformat teks</b></h3>
+**7. Memformat teks**
 
 ```html
 <p align="justify">
@@ -95,7 +94,7 @@ h1 sampai h6 tergantung kebutuhan
 </p>
 ```
 
-<h3><b>8. Menyisipkan gambar</b></h3>
+**8. Menyisipkan gambar**
 
 Disini saya menyimpan file gambar pada folder img
 
@@ -121,7 +120,7 @@ Hyperlink ini berguna untuk berpindah halaman website atau berkunjung kehalaman 
 
 Disini saya menggunakan atribut **target** yang berguna untuk membuka website/halaman di buka pada jendela atau tab yang baru
 
-<h2 id="soal"><b>Jawab Pertanyaan Berikut</b></h2>
+## **Jawab Pertanyaan Berikut**
 
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah
    error ketika terjadi kesalahan penulisan tag?
