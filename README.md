@@ -7,7 +7,14 @@ Kelas   : TI.2.A.4
 MATKUL  : Pemrograman Web 1
 ```
 
-<h2><b>Instruksi Praktikum</b></h2>
+<h2><b>Daftar Isi</b></h2>
+<ul>
+  <li><a href = "#intruksi">Instruksi Praktikum</a></li>
+  <li><a href = "#langkah">Langkah-langkah Praktikum</a></li>
+  <li><a href = "#soal">Jawab Pertanyaan Berikut</a></li>
+</ul>
+
+<h2 id="intruksi"><b>Instruksi Praktikum</b></h2>
 
 1. Persiapkan text editor, saya menggunakan VSCode
 2. Buat file baru dengan nama lab1_tag_dasar.html
@@ -15,7 +22,7 @@ MATKUL  : Pemrograman Web 1
 4. Ikuti langkah-langkah praktikum yang akan dijelaskan berikutnya.
 5. Lakukan validasi dokumen html dengan mengakses http://validator.w3.org
 
-<h2><b>Langkah-langkah Praktikum</b></h2>
+<h2 id="langkah"><b>Langkah-langkah Praktikum</b></h2>
 
 1. Buka VSCode atau text editor, disini saya menggunakan VSCode karena lebih mudah digunakan dan VSCode ini sedang populer dikalangan para programmer.
    ![img](img/texteditor.png)
@@ -114,11 +121,11 @@ Hyperlink ini berguna untuk berpindah halaman website atau berkunjung kehalaman 
 
 Disini saya menggunakan atribut **target** yang berguna untuk membuka website/halaman di buka pada jendela atau tab yang baru
 
-<h2><b>Jawab Pertanyaan Berikut</b></h2>
+<h2 id="soal"><b>Jawab Pertanyaan Berikut</b></h2>
 
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah
    error ketika terjadi kesalahan penulisan tag?
-   **Jawaban:**
+   **Jawaban:**  
    <br>
    <mark style="background-color:lightblue">Tidak terjadi error, tetapi tag/kode yang tidak sesuai tidak akan ditampilkan pada halaman website.</mark>
 
@@ -128,12 +135,12 @@ Disini saya menggunakan atribut **target** yang berguna untuk membuka website/ha
    <mark style="background-color:lightblue">Tag p digunakan untuk membuat paragraf, sedangkan tag br digunakan untuk memberikan enter pada paragraf.</mark>
 
 3. Apa perbedaan atribut title dan alt pada tag img, berikan penjelasannya!  
-   **Jawaban:**
+   **Jawaban:**  
    <br>
    <mark style="background-color:lightblue">Atribut title akan muncul jika kursor diarahkan keobjek/gambar, sedangkan atribut alt(alternatif) akan muncul jika user tidak bisa menampilkan gambar atau jaringan internet tidak bisa menginput gambar.</mark>
 
 4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!  
-   **Jawaban:**
+   **Jawaban:**  
    <br>
    <mark style=background-color:lightblue>sebaiknya hanya mengisi atribut widht saja karna dengan mengisi atribut widht saja itu sudah termasuk height, contoh : jika saya mengisi widht="100" maka otomatis height = "100" jadi height tersebut mengikuti widhtnya</mark>
 
